@@ -1,9 +1,11 @@
-### _Using an open source data set from Kaggle containing employee features such as satisfaction rates, evaluation scores, salary, department, and retention information to determine what kinds of employees are leaving the company and why._
+### _Using an open source data set from Kaggle containing employee features such as satisfaction rates, salary, and retention to determine what kinds of employees are leaving the company and why._
 
 ### Data Set Features: 
 Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, Time Spent at Company, Work Accident, Quit Company, Promotion in Last 5 Years, Department, Salary
 
 ### The Big Picture: An Overview of Past and Present Employees
+
+![screen shot 2017-01-17 at 4 37 03 pm 2](https://cloud.githubusercontent.com/assets/22280221/22046130/715f5cda-dcd3-11e6-82fe-35705d0822db.png)
 
   - The Average Monthly Hours for all workers is around 201
   - Satisfaction Levels are around 61%
@@ -19,11 +21,12 @@ We are concerned with the rentention rate of our company, lets look at two varia
 
 - **Satisfaction level is a strong indicator of whether an employee will leave the company.** As satisfaction increases, the number of employees that leave decreases.
 - The evaluation of an employee has no influence on an employee leaving the company.
-- **The longer the employee has been at the company, the more likely they are to leave.
-- The more projects, higher average monthly hours and higher evaluation score of an employee the longer the employee is retained by the company.
-- The longer the employee stays at the company, the less they are satisfied with the company.**
+- **The longer the employee has been at the company, the more likely they are to leave.**
+- **The longer the employee stays at the company, the less they are satisfied with the company.**
 
 ### Let's Compare: Who stayed, who left? There are many strong indicators that charecterize the individuals who quit our company:
+
+![screen shot 2017-01-17 at 4 40 46 pm 2](https://cloud.githubusercontent.com/assets/22280221/22046189/d15e0442-dcd3-11e6-995c-367d96addcd9.png)
 
 The time the employee will spend at the company will decrease, in other words: **An employee will quit, as thier satisfaction levels, evaluation, # of projects and hours work decrease.** They will work less hours as they score less in evaluations and are given less projects.
 
