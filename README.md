@@ -17,18 +17,18 @@ Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, 
 
 ![264c19f0-dcd2-11e6-977a-7c5c14350550](https://cloud.githubusercontent.com/assets/22280221/22046362/f17b9d9c-dcd4-11e6-9c77-cf9ff991a609.png)
 
-We are concerned with the rentention rate of our company, lets look at two variables that directly address this: whether the employee has left or not and the length of time the employee has been at the company.
+Taking a look at the correlation of key variables highlighted above (whether the employee has left or not and how long they stayed at the company) with other employee attributes reveals charecteristics of those that leave the company:
 
 - **Satisfaction level is a strong indicator of whether an employee will leave the company.** As satisfaction increases, the number of employees that leave decreases.
 - The evaluation of an employee has no influence on an employee leaving the company.
-- **The longer the employee has been at the company, the more likely they are to leave.**
 - **The longer the employee stays at the company, the less they are satisfied with the company.**
+- **The longer the employee has been at the company, the more likely they are to leave.**
 
-### Let's Compare: Who stayed, who left? There are many strong indicators that charecterize the individuals who quit our company:
+### Coorelation Matrix of Present Employees:
 
 ![screen shot 2017-01-17 at 4 40 46 pm 2](https://cloud.githubusercontent.com/assets/22280221/22046189/d15e0442-dcd3-11e6-995c-367d96addcd9.png)
 
-The time the employee will spend at the company will decrease, in other words: **An employee will quit, as thier satisfaction levels, evaluation, # of projects and hours work decrease.** They will work less hours as they score less in evaluations and are given less projects.
+The key variable in this matrix is the amount of time spent at the company. **An employee will quit, as thier satisfaction levels, evaluation, # of projects and hours work decrease.** They will work less hours as they score less in evaluations and are given less projects.
 
 Comparing the descriptive statistics for both groups we discover:
 
