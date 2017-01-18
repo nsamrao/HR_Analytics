@@ -16,7 +16,7 @@ Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, 
   
 ## The Big Picture: Coorelation
 
-![Coorelation](https://github.com/nsamrao/HR_Analytics/blob/master/Coorelation_1.png)
+![coorelation_1](https://cloud.githubusercontent.com/assets/22280221/22045916/264c19f0-dcd2-11e6-977a-7c5c14350550.png)
 
 We are concerned with the rentention rate of our company, lets look at two variables that directly address this: whether the employee has left or not and the length of time the employee has been at the company.
 
