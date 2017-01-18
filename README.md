@@ -1,9 +1,9 @@
 ## Using an open source data set from Kaggle containing employee features such as satisfaction rates, evaluation scores, salary, department, and retention information to determine what kinds of employees are leaving the company and why.
 
-# Data Set Features: 
+### Data Set Features: 
 Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, Time Spent at Company, Work Accident, Quit Company, Promotion in Last 5 Years, Department, Salary
 
-## The Big Picture: An Overview of Past and Present Employees
+### The Big Picture: An Overview of Past and Present Employees
 
   - The Average Monthly Hours for all workers is around 201
   - Satisfaction Levels are around 61%
@@ -11,7 +11,7 @@ Satisfaction Level, Last Evaluation, Number of Projects, Average Monthly Hours, 
   - Performance average is around 71%
   - Workers spend an average of 3.5 years at the company
   
-## The Big Picture: Coorelation
+### The Big Picture: Coorelation
 
 ![coorelation_1](https://cloud.githubusercontent.com/assets/22280221/22045916/264c19f0-dcd2-11e6-977a-7c5c14350550.png)
 
@@ -23,7 +23,7 @@ We are concerned with the rentention rate of our company, lets look at two varia
 - The more projects, higher average monthly hours and higher evaluation score of an employee the longer the employee is retained by the company.
 - The longer the employee stays at the company, the less they are satisfied with the company.**
 
-## Let's Compare: Who stayed, who left? There are many strong indicators that charecterize the individuals who quit our company:
+### Let's Compare: Who stayed, who left? There are many strong indicators that charecterize the individuals who quit our company:
 
 The time the employee will spend at the company will decrease, in other words: **An employee will quit, as thier satisfaction levels, evaluation, # of projects and hours work decrease.** They will work less hours as they score less in evaluations and are given less projects.
 
